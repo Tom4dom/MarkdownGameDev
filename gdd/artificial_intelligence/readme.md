@@ -2,9 +2,9 @@
 
 ## [Artificial Intelligence](./readme.md)
 
-1. [Opponent  and Enemy AI](./artificial_intelligence/opponent_and_enemy_ai.md)
-2. [Non-combat and Friendly Characters](./artificial_intelligence/non-combat_and_friendly_characters.md)
-3. [Support AI](./artificial_intelligence/support_ai.md)
+1. [Opponent  and Enemy AI](./opponent_and_enemy_ai.md)
+2. [Non-combat and Friendly Characters](./non-combat_and_friendly_characters.md)
+3. [Support AI](./support_ai.md)
 
 ## License
 

@@ -1,10 +1,12 @@
 # [Game Design Document Template](../readme.md)
 
-## [Game Overview](./readme.md)
+## Overview
 
-### Look and Feel
-
-The Look and Feel section covers the visual style of the game and what emotions the user will experience.
+1. [Game Concept](./game_overview/game_concept.md)
+2. [Genre](./game_overview/genre.md)
+3. [Target Audience](./game_overview/target_audience.md)
+4. [Game Flow Summary](./game_overview/game_flow_summary.md)
+5. [Look and Feel](./game_overview/look_and_feel.md)
 
 ## License
 

@@ -2,12 +2,12 @@
 
 This folder contains a Markdown template for a Game Design Document in a folder hierarchy. The folder hierarchy is preferred over a single file because Markdown viewers are very glitch with large documents.
 
-1. [Game Overview](./game_overview/readme.md)
-    1. [Game Concept](./game_overview/game_concept.md)
-    2. [Genre](./game_overview/genre.md)
-    3. [Target Audience](./game_overview/target_audience.md)
-    4. [Game Flow Summary](./game_overview/game_flow_summary.md)
-    5. [Look and Feel](./game_overview/look_and_feel.md)
+1. [Overview](./overview/readme.md)
+    1. [Game Concept](./overview/game_concept.md)
+    2. [Genre](./overview/genre.md)
+    3. [Target Audience](./overview/target_audience.md)
+    4. [Game Flow Summary](./overview/game_flow_summary.md)
+    5. [Look and Feel](./overview/look_and_feel.md)
 2. [Gameplay and  Mechanics](./gameplay_and_mechanics/readme.md)
     1. [Gameplay](./gameplay_and_mechanics/gameplay/readme.md)
         1. [Game Progression](./gameplay_and_mechanics/gameplay/game_progression.md)
@@ -51,8 +51,6 @@ This folder contains a Markdown template for a Game Design Document in a folder 
 8. [Game Art](./game_art/readme.md)
 
 ## License
-
-***This template is not copyrighted, this is just an example license.***
 
 Copyright 2019 (C) Your Name <<your.email@address.com>>, the IP Owner; all rights reserved (R).
 

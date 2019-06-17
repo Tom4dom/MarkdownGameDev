@@ -1,8 +1,10 @@
 # [Game Design Document Template](../readme.md)
 
-## [Game Overview](./readme.md)
+## [Overview](./readme.md)
 
-### Target Audience
+### Look and Feel
+
+The Look and Feel section covers the visual style of the game and what emotions the user will experience.
 
 ## License
 

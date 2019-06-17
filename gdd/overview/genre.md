@@ -1,12 +1,8 @@
 # [Game Design Document Template](../readme.md)
 
-## Game Overview
+## [Overview](./readme.md)
 
-1. [Game Concept](./game_overview/game_concept.md)
-2. [Genre](./game_overview/genre.md)
-3. [Target Audience](./game_overview/target_audience.md)
-4. [Game Flow Summary](./game_overview/game_flow_summary.md)
-5. [Look and Feel](./game_overview/look_and_feel.md)
+### Genre
 
 ## License
 

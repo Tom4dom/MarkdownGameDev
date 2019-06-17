@@ -1,10 +1,14 @@
-# Game Design Markdown Templates
+# Game Dev Markdown Templates
 
-This folder contains markdown template for a Game Design Document. In order to edit these files we recommend you use [Visual Studio Code](https://code.visualstudio.com/) or [Atom](https://atom.io/).
+This folder contains markdown template for a Game Design Document. The template is broken up into a tree structure with one Markdown file per section similar to a website. This file structure helps clean up the file system, prevents slow Markdown renderers from glitching, and helps you focus on writhing one section at a time. In order to edit these files we recommend you use [Visual Studio Code](https://code.visualstudio.com/). [Atom](https://atom.io/) is okay but the Markdown renderer is notoriously bad as of the writing of this.
 
 * [Game Design Document Markdown Template](./gdd/readme.md)
 
-## The License
+## Contributions
+
+If you have any essential game document templates, please fee free to submit them via an Issue ticket. Thanks.
+
+## License
 
 ***This template is not copyrighted, this is just an example license.***
 

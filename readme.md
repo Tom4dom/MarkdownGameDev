@@ -22,7 +22,7 @@ This folder contains markdown template for a Game Design Document. The template 
 git clone https://github.com/kabuki-starship/markdown.game_dev.git
 ```
 
-**2.** Read the directions for how to use the Markdown templates in the [Astartup Cookbook](https://github.com/kabuki-starship/astartup.cookbook/doc/markdown_templates/readme.md).
+**2.** Read the directions for how to use the Markdown templates in the [Astartup Cookbook](https://github.com/kabuki-starship/astartup.cookbook/getting_started/markdown/readme.md).
 
 ## MVP RoadMap
 

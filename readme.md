@@ -4,7 +4,7 @@ This folder contains markdown template for a Game Design Document. The template 
 
 ## Organization
 
- There are different Markdown templates for different tasks:
+  The directions for how to use the templates are stored in the [Astartup Cookbook](https://github.com/kabuki-starship/astartup.cookbook/doc/markdown_templates/readme.md). There are different Markdown templates for different tasks:
 
 * [Markdown Software Engineering](https://github.com/kabuki-starship/markdown.software_engineering)
 * Markdown Game Design
@@ -22,17 +22,7 @@ This folder contains markdown template for a Game Design Document. The template 
 git clone https://github.com/kabuki-starship/markdown.game_dev.git
 ```
 
-**2.** Copy the documents you want into your repo, but do not copy the .git folder because it will mess up the GitHub templates.
-
-**3.** We've found [Visual Studio Code](code.visualstudio.com) to the best Markdown editor. Open Visual Studio Code, right click on the Explorer, and click on Add Folder to Workspace, then point it to your project repo's root folder.
-
-**4.** Find and replace all instances of "Markdown Software Engineering" with your projects name, and find and replace all instances of "Your Name <<https://your-github-page.github.io>>" with your name and a pointer to your GitHub page. Please don't put your personal email on the copyright, you want to make them contact you through a website so you can keep your personal information private.
-
-**5.** Delete the lines in the License you don't need.
-
-**6.** To upload the files to the web, just upload them to your GitHub repo.
-
-**7.** If you would like to create a statically generated website from the Markdown files, check out [KabukiPress](https://github.com/kabuki-starship/kabukipress). We are seeking Modern Embedded-C++ code contributors.
+**2.** Read the directions for how to use the Markdown templates in the [Astartup Cookbook](https://github.com/kabuki-starship/astartup.cookbook/doc/markdown_templates/readme.md).
 
 ## MVP RoadMap
 
